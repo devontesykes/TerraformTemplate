@@ -1,5 +1,5 @@
-variable "ssh_key" {ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQClSpg4eAhg87dwXJ2ur5xO5FvwqCHExKFLjx0zo/4eyxhF3fqjYc3hkj7MYd8bLErO9fXaWUs+T/5aGLf2k+qyhbQXlrO+cp9I6rxlTX7HdYYjD+DG2d718d6E646ZMf1qdAuznluQD2MkyAM1f1JdZxaLBwnEgLn1CUyfcJz05p5aCskSpkp2cl5AXAjejKzNfioUHzzLqev0TvRK/LQ1pyOlCTLMg/X3IfMJgmK/MnQ3aoejeReENJiL4UrvvwX87BJvLJuDon9aRS0eCmMwdbKw4tCLR9WXHnsGFqLeaVCLJcnjlB9c7iqnZtszYxUCspXnsId0tW+mjUMTx9nx Devonte Sykes}
-variable "resource_group" {473f10a3af9a4dada30e4ad47c75d2b5}
+variable "ssh_key" {}
+variable "resource_group" {}
 
 provider "ibm" {
   generation = 1
