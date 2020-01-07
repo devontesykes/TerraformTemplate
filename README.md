@@ -2,7 +2,7 @@
 My first template for IBM Cloud Schematics (Terraform)
 
 # Understanding the configuration file components
-variable.ssh_key
+variable.ssh_key - 
 A variable declaration for the name of the SSH key that you uploaded to your IBM Cloud account. You enter the value for your variable when you create your workspace in IBM Cloud Schematics.
 
 variable.resource_group
